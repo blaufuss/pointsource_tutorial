@@ -1,1 +1,1 @@
-# pointsource_tutorial
+Example scripts used in the 2019/2020 IceCube point source analysis workshop at the University of Maryland.
